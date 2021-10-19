@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Allerge",
+    "img": "https://image.freepik.com/free-photo/young-woman-with-allergy-sneezing-girl-feeling-sick-having-runny-nose_1258-19089.jpg",
+    "discription": "Allergies are your body's reaction to a normally harmless substance such as pollen, molds, animal dander, latex, certain foods and insect sting"
+  },
+  {
+    "id": 2,
+    "name": "Burns",
+    "img": "https://pbs.twimg.com/media/EHE4NR6XkAAjYMG?format=jpg&name=large",
+    "discription": "A burn center, burn unit or burns unit is a hospital specializing in the treatment of burns. Burn centers are often used for the treatment and "
+  },
+  {
+    "id": 3,
+    "name": "Cancer",
+    "img": "https://image.freepik.com/free-photo/woman-suffering-breast-cancer-talking-with-her-doctor_23-2148992309.jpg",
+    "discription": "Cancer as depicted by crab is actually uncontrolled, uninhibited growth of some of the cells of our body which can grow in any direction. These cells  "
+  },
+  {
+    "id": 4,
+    "name": "Diabetic",
+    "img": "https://image.freepik.com/free-photo/world-diabetes-day-doctor-holding-patient-hand-s_1150-26698.jpg",
+    "discription": "Diabetes mellitus, commonly known as diabetes, is a metabolic disease that causes high blood sugar. The hormone insulin moves sugar from the blood into your cells to be stored or used for energy.  "
+  },
+
+  {
+    "id": 5,
+    "name": "HIV",
+    "img": "https://image.freepik.com/free-photo/doctor-holds-red-ribbon-hiv-awareness-awareness-world-aids-day-world-sexual-health-day_1150-24413.jpg",
+    "discription": "HIV (human immunodeficiency virus) is a virus that attacks the body's immune system. If HIV is not treated, it can lead to AIDS (acquired immunodeficiency syndrome). Learning the basi  "
+  },
+  {
+    "id": 6,
+    "name": "Psoriasis",
+    "img": "https://image.freepik.com/free-photo/medical-assistant-checking-oximeter-attached-senior-man_482257-14024.jpg",
+    "discription": "Psoriasis occurs when skin cells are replaced more quickly than usual. It's not known exactly why this happens, but research suggests it's caused by a problem with the immune"
+  },
+  {
+    "id": 7,
+    "name": "Dentist",
+    "img": "https://image.freepik.com/free-photo/male-professional-dentist-with-gloves-mask-discuss-what-treatment-will-look-like-patient-s-teeth_158595-7630.jpg",
+    "discription": " Dentists are trained professionals who help care for the teeth and mouth. Regularly seeing a dentist can help you to maintain a good level  Dentists are trained professionals     "
+  },
+  {
+    "id": 8,
+    "name": "Corona",
+    "img": "https://image.freepik.com/free-photo/doctor-mask-gloves-protective-suit-pointing-left-looking_176474-3604.jpg",
+    "discription": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virusHowever, some will become seriously ill and and those  "
+  },
+  {
+    "id": 9,
+    "name": "Surgery",
+    "img": "https://image.freepik.com/free-photo/surgeons-interacting-with-each-other-operation-room_1170-2283.jpg",
+    "discription": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological  "
+  }
+]
